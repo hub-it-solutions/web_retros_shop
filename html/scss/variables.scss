@@ -1,0 +1,49 @@
+
+// Framework
+@import "node_modules/bulma/sass/utilities/_all";
+
+// customozed variables
+$primary: #01579B;
+
+//$success: #9dd53a;
+
+// Sizes
+$size-1: 30px;
+$size-2: 25px;
+$size-3: 18px;
+$size-4: 15px;
+$size-5: 12px;
+$size-6: 10px;
+$size-7: 8px;
+
+$navbar-height: 50px;
+$navbar-item:$white;
+$body-size: 11px;
+$body-background: linear-gradient(
+	270deg, rgba(185, 147, 214, 0.5), rgba(140, 166, 219, 0.5)
+);
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+    "white": ($white, $black),
+    "black": ($black, $white),
+    "light": ($light, $light-invert),
+    "dark": ($dark, $dark-invert),
+    "primary": ($primary, $primary-invert),
+    "info": ($info, $info-invert),
+    "success": ($success, $success-invert),
+    "warning": ($warning, $warning-invert),
+    "danger": ($danger, $danger-invert)
+);
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+$radius-large: 0px;
+$radius-small:	0px;
+$radius:	0px;
+
+
+
