@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: BulmaWP\n"
+"POT-Creation-Date: 2017-08-14 20:28+0100\n"
+"PO-Revision-Date: 2017-08-14 20:32+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Désolé ! La page demandée n'existe plus."
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semble que rien n’ait été trouvé à cet endroit. Peut être essayez un des "
+"liens ci-dessous ou faites une recherche ?"
+
+#: 404.php:36
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:54
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Tentez de regarder dans les archives mensuelles. %1$s"
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%s&rdquo;"
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos."
+
+#: comments.php:64
+msgid "card-content"
+msgstr ""
+
+#: comments.php:65
+msgid "button is-primary"
+msgstr ""
+
+#: comments.php:73
+msgid "Message"
+msgstr "Message"
+
+#: comments.php:80
+msgid "Name*"
+msgstr "Nom *"
+
+#: comments.php:88
+msgid "Email*"
+msgstr "E-mail *"
+
+#: comments.php:96
+msgid "URL*"
+msgstr "URL"
+
+#: footer.php:21
+msgid "Powered by"
+msgstr "Généré par"
+
+#: footer.php:23
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25 includes/php/bulmawp-functions.php:127
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:38
+msgid "Header Left"
+msgstr "En-tête gauche"
+
+#: functions.php:39
+msgid "Header Right"
+msgstr "En-tête, côté droit"
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:83
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: includes/php/bulmawp-functions.php:40
+msgid "Posted by"
+msgstr "Posté par"
+
+#: includes/php/bulmawp-functions.php:68
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/php/bulmawp-functions.php:78
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/php/bulmawp-functions.php:88
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/php/bulmawp-functions.php:98
+msgid "Website"
+msgstr ""
+
+#: includes/php/bulmawp-functions.php:130
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: includes/php/bulmawp-functions.php:132
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: includes/php/customizer.php:66
+msgid "BulmaWP Options"
+msgstr "Options de BulmaWP"
+
+#: includes/php/customizer.php:69
+msgid "Customize the theme settings for BulmaWP."
+msgstr "Personnaliser les paramètres de thème pour BulmaWP."
+
+#: includes/php/customizer.php:82
+msgid "Front Page Title"
+msgstr "Titre de la Page de couverture"
+
+#: includes/php/customizer.php:83 includes/php/customizer.php:95
+#: includes/php/customizer.php:114
+msgid ""
+"The title you want shown on the front page when the \"Front page displays\" "
+"setting is set to \"Your latest posts\" in Settings > Reading."
+msgstr ""
+"Le titre vous voulez indiqué sur la première page quand la « page d’acceuil "
+"affiche » est réglé sur « Vos derniers messages » dans Réglages > lecture."
+
+#: includes/php/customizer.php:94
+msgid "Blog Columns"
+msgstr "Colonnes du blog"
+
+#: includes/php/customizer.php:99
+msgid "2 Columns (Default)"
+msgstr "2 colonnes (par défaut)"
+
+#: includes/php/customizer.php:100
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: includes/php/customizer.php:101
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+#: includes/php/customizer.php:113
+msgid "Display Author Bios"
+msgstr "Afficher l'auteur"
+
+#: includes/php/customizer.php:118
+msgid "Display on Posts &amp; Pages (Default)"
+msgstr "Affichage sur des postes et des Pages (par défaut)"
+
+#: includes/php/customizer.php:119
+msgid "Display on Posts only"
+msgstr "Afficher sur les messages uniquement"
+
+#: includes/php/customizer.php:120
+msgid "Display on Pages only"
+msgstr "Afficher sur les pages"
+
+#: includes/php/customizer.php:121
+msgid "Do not display Author Bios"
+msgstr "Author Bios ne s’affichent pas"
+
+#: includes/php/customizer.php:128
+msgid "BulmaWP Social Media"
+msgstr "Médias sociaux BulmaWP"
+
+#: includes/php/customizer.php:131
+msgid "Setup and display your social media links."
+msgstr "Configurer et afficher vos liens de médias sociaux."
+
+#: includes/php/customizer.php:142
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: includes/php/customizer.php:143
+msgid "Your Facebook URL (please include http://)"
+msgstr "L’URL de votre Facebook (s’il vous plaît inclure http://)"
+
+#: includes/php/customizer.php:155
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: includes/php/customizer.php:156
+msgid "Your Twitter URL (please include http://)"
+msgstr "Votre Twitter URL (veuillez inclure http://)"
+
+#: includes/php/customizer.php:168
+msgid "LinkedIn URL"
+msgstr "URL LinkedIn"
+
+#: includes/php/customizer.php:169
+msgid "Your LinkedIn URL (please include http://)"
+msgstr "Votre URL de LinkedIn (veuillez inclure http://)"
+
+#: includes/php/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: includes/php/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "Nouveau %s"
+
+#: includes/php/template-tags.php:52
+msgid ", "
+msgstr ","
+
+#: includes/php/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: includes/php/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ","
+
+#: includes/php/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Marqué %1$s"
+
+#: includes/php/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Laisser un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour : %s"
+
+#: templates-content/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+#: templates-content/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier poste? <a href=\"%1$s\"> Commencez ici </a>."
+
+#: templates-content/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. Veuillez "
+"réessayer avec d'autres mots-clés."
+
+#: templates-content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Nous ne parvenons pas à trouver le contenu auquel vous essayez d’accéder. "
+"Essayez d’utiliser le formulaire de recherche."
+
+#: templates-content/content-page.php:38
+#: templates-pages/page-sidebar-right.php:39
+msgid "Pages:"
+msgstr "Pages:"
+
+#: templates-content/content-single.php:24
+msgid "In"
+msgstr "Dans"
+
+#: templates-content/content-single.php:31
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+#: templates-content/content-single.php:32
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: templates-content/content-single.php:33
+#, php-format
+msgid "%s Comments"
+msgstr "%s Commentaires"
+
+#. Theme Name of the plugin/theme
+msgid "BulmaWP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://bulmawp.robjames.eu"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BulmaWP - WordPress Theme built with Bulma.io CSS Framework at it's core."
+msgstr ""
+"BulmaWP - WordPress thème construit avec Framework CSS Bulma.io à sa base."
+
+#. Author of the plugin/theme
+msgid "Rob James"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://robjames.eu"
+msgstr ""
